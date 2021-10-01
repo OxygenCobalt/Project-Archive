@@ -8,3 +8,5 @@ Its a general fighting game, with different colored square "Characters", abiliti
 [<img src="markdown/gameplay_normal.png" width=250>](markdown/gameplay_normal.png)
 [<img src="markdown/gameplay_tense.png" width=250>](markdown/gameplay_tense.png)
 [<img src="markdown/gameplay_chaos.png" width=250>](markdown/gameplay_chaos.png)
+
+This project is from my older account, Ale-XYX. Ive since mirrored it and added comments.
