@@ -1,7 +1,0 @@
-make all --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/oxygencobalt/programming/gl'
-rm -f "OpenGL" 
-clang++ -std=c++17 -O3 -lGL -lglfw -lGLEW -lSOIL -o OpenGL invr/camera.cpp invr/framebuffer.cpp invr/input.cpp invr/shader.cpp invr/texture.cpp invr/vertex_array.cpp invr/window.cpp OpenGL.cpp shader.cpp
-strip "OpenGL"
-make: Leaving directory '/home/oxygencobalt/programming/gl'
- 

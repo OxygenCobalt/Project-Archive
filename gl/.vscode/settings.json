@@ -1,9 +1,0 @@
-{
-    "makefile.launchConfigurations": [
-        {
-            "cwd": "/home/oxygencobalt/programming/gl",
-            "binaryPath": "/home/oxygencobalt/programming/gl/OpenGL",
-            "binaryArgs": []
-        }
-    ]
-}
